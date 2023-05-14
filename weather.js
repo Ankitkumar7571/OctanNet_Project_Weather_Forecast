@@ -1,4 +1,4 @@
-// Created by Ankit Ku
+// Created by Ankit Kumar
 
 let weather = {
     "apikey": "2f0ad3953411bdfb6c2964fa864b71d0",
